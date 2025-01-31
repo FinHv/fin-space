@@ -1,3 +1,9 @@
+install rclone latest version..
+
+npm install in the source folder.
+
+node fin-space.js
+
 add in ngbot.vars:
 
 ```
