@@ -25,10 +25,10 @@ announce.TDELA                    		= "%c1{%b{[SPACE]:}} %c2{[DELETE]} :: %c2{%b
 ```
 
 looks like this:
-
+```
 <@NiNJA> [ARCHiViNG]: [MOViNG] :: Boardwalk.Empire.S01E02.1080p.BluRay.H264-RMX :: [11772 MB] to [ARCHiVE-TV-HDRiP]
 <@NiNJA> [ARCHiViNG]: [MOViNG] :: Boardwalk.Empire.S01E03.1080p.BluRay.H264-RMX :: [9091 MB] to [ARCHiVE-TV-HDRiP]
 <@NiNJA> [SPACE]: [DELETE] :: A.Different.Man.2024.MULTi.1080p.BluRay.x264-UKDHD :: [14718 MB] from [ARCHiVE-X264-HD-1080P]
 <@NiNJA> [SPACE]: [DELETE] :: Marvels.Spider-Man.2-RUNE :: [96178 MB] from [GAMES]
-
+```
 
