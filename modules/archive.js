@@ -51,7 +51,7 @@ const manageArchive = async (config, incomingRelease = null) => {
     let bestSection = null;
     let mostFreeSpace = 0;
 
-    for (const archiveSection of config.archiveDisksSections) {
+    for (const archiveSection of matchingArchiveSections) { // Only check sections matching the category
         try {
             const freeSpace = await getFreeSpace(archiveSection.device);
 
